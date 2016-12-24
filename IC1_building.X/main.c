@@ -7,7 +7,7 @@
 
 
 #include <xc.h>
-
+#include <motor.h>
 void main(void) {
     return;
 }
